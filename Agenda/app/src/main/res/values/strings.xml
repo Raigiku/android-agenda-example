@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Agenda</string>
+    <string name="hint_name">Nombre</string>
+    <string name="hint_telephone">Teléfono</string>
+    <string name="item_save">Guardar</string>
+    <string name="item_add">Agregar</string>
+    <string name="bt_modify_text">Modificar</string>
+    <string name="bt_delete_text">Eliminar</string>
+
+</resources>
